@@ -105,14 +105,6 @@ API uç noktası `lib/constants/assets.dart` içinde tanımlanır.
 
 ---
 
-## 📚 Belgeler
-
-- [QUICK_START.md](QUICK_START.md) - Hızlı kurulum ve test
-- [PROJECT_GUIDE.md](PROJECT_GUIDE.md) - Detaylı proje rehberi
-- [FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md) - Klasör ve mimari düzeni
-- [DELIVERY_NOTES.md](DELIVERY_NOTES.md) - Teslim notları
-
----
 
 ## 💻 Çalıştırma Komutları
 
