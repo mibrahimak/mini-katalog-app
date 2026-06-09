@@ -60,7 +60,7 @@ Bilgisayarınızda aşağıdaki araçların kurulu olduğundan emin olun:
 Projeyi bilgisayarınıza indirmek için terminale şu komutu yazın:
 
 ```bash
-git clone https://github.com/mibrahimak/mini-katalog-app
+git clone https://github.com/mibrahimak/mini-katalog-app.git
 ```
 
 (Eğer git kullanmıyorsanız, projeyi ZIP olarak indirip bir klasöre çıkartabilirsiniz.)
